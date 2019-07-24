@@ -1,0 +1,67 @@
+# =============== #
+# Unity generated #
+# =============== #
+build/
+buildPC/
+/Temp/
+Obj/
+UnityGenerated/
+Library/
+Assets/Assemblies/*.dll.mdb
+Assets/Assemblies/*.dll.mdb.meta
+
+# ===================================== #
+# Visual Studio / MonoDevelop / VSCode / Rider generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+*.user
+*.unityproj
+*.booproj
+/Backup/
+/packages/
+/obj/
+Debug
+Release
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+#Icon?
+ehthumbs.db
+Thumbs.db
+.idea/
+.vscode/
+Assets/Plugins/Editor/JetBrains.meta
+Assets/Plugins/Editor/JetBrains/
+
+# ===================================== #
+# Local #
+# ===================================== #
+Assets/External/UnityVS/
+Assets/External/UnityVS.meta
+Assets/UnityVS/
+Assets/UnityVS.meta
+Builds/
+Export/
+/Art/
+/Source/
+*.sublime*
+Assets/Resources/config.json*
+Assets/Resources/config*.json.meta
+
+Tools/mrgs_integration/unity_project/Library/
+Tools/mrgs_integration/unity_project/*apk
+
+.vs/
+Assets/DesertWars/Resources/Singleton/Config.asset*
+
+Assets/Plugins/LibsSymlinks*
